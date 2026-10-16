@@ -9,5 +9,6 @@
   },
   "homepage": "https://edtool79-collab.github.io/hirepulse-tools/",
   "repository": "https://github.com/edtool79-collab/hirepulse-plugin",
-  "license": "MIT"
+  "license": "MIT",
+  "privacyPolicyUrl": "https://github.com/edtool79-collab/hirepulse-plugin/blob/main/PRIVACY.md"
 }
