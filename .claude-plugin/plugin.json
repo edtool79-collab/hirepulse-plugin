@@ -1,0 +1,13 @@
+{
+  "name": "hirepulse",
+  "displayName": "HirePulse data tools",
+  "version": "0.1.0",
+  "description": "Eight pay-per-use data tools for AI agents on Apify: Google Jobs, company job boards, Google ads by domain, keyword volume, domain SEO, YouTube transcripts, AliExpress search and company intent signals.",
+  "author": {
+    "name": "hirepulse",
+    "url": "https://apify.com/hirepulse"
+  },
+  "homepage": "https://edtool79-collab.github.io/hirepulse-tools/",
+  "repository": "https://github.com/edtool79-collab/hirepulse-plugin",
+  "license": "MIT"
+}

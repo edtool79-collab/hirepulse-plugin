@@ -1,0 +1,14 @@
+{
+  "name": "hirepulse-tools",
+  "description": "HirePulse data tools for AI agents",
+  "owner": {
+    "name": "hirepulse"
+  },
+  "plugins": [
+    {
+      "name": "hirepulse",
+      "source": "./",
+      "description": "Eight pay-per-use data tools and a skill that tells the agent when to use each one."
+    }
+  ]
+}

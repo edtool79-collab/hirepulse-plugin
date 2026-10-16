@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hirepulse": {
+      "type": "http",
+      "url": "https://mcp.apify.com/?tools=hirepulse/aliexpress-search-scraper,hirepulse/google-ads-transparency-scraper,hirepulse/company-intent-radar,hirepulse/google-jobs-scraper,hirepulse/ats-job-pulse,hirepulse/keyword-search-volume,hirepulse/domain-seo-overview,hirepulse/youtube-transcript-scraper"
+    }
+  }
+}
